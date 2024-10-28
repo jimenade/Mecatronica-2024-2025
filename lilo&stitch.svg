@@ -25,20 +25,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.96289062"
-     inkscape:cx="317.27383"
-     inkscape:cy="317.7931"
+     inkscape:zoom="1.9257812"
+     inkscape:cx="535.10751"
+     inkscape:cy="217.57404"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5" />
+     inkscape:current-layer="layer4"
+     inkscape:lockguides="true" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g1"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <image
        width="1024"
@@ -52,8 +53,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Lilo"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-opacity:1"
        d="m 599.19435,436.49698 v 5.60651 l -0.11977,7.28275 -0.33569,7.36863 2.01081,65.82675 -2.13325,-68.26785 z"
@@ -280,11 +281,17 @@
        d="m 607.2877,168.37082 3.79693,-0.29144 h 4.84151 l 3.58597,-0.58926 h 4.92065 l 4.63775,-0.0649 4.95404,-0.51927 4.90113,-0.50976 3.14785,-0.0464 3.87404,-0.45436 3.02113,-0.58418 2.95413,-0.83607 2.84144,-1.59559 c 0,0 2.12148,-2.00737 2.24488,-2.27408 0.1234,-0.26671 2.12749,-3.42747 2.12749,-3.42747 l 1.09848,-3.55007 v -3.42434 l -0.44913,-2.79723 -0.57703,-2.92156"
        id="path50"
        sodipodi:nodetypes="cccccccccccccsccccc" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 657.66312,183.10787 c 0,0 1.37019,0.28509 1.96381,0.63229 0.30825,0.18029 0.68346,0.38581 0.78607,0.72785 0.12085,0.40286 -0.3011,1.22533 -0.3011,1.22533 l -0.58418,1.12815 v 0.28775"
+       id="path13"
+       sodipodi:nodetypes="cssccc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Stitch">
+     inkscape:label="Stitch"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-opacity:1"
        d="m 326.03182,266.24856 2.27453,-3.89949 3.16935,-4.60252 3.80283,-3.42922 0.91279,-0.51603 2.39595,-0.0667 2.22149,0.50301 2.04712,1.55895 1.9703,2.09177 1.83549,1.84917 2.70058,2.23951 1.72126,2.39312 0.25734,1.59931"

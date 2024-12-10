@@ -1,13 +1,99 @@
-<?xml version="1.0"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="20.612496447010603mm" height="54.63188390093172mm" viewBox="0 0 20.612496447010603 54.63188390093172" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch" transform="translate(-13.266516,50.346600) scale(1,-1)">
-<path id="Sketch_w0000"  d="M 23.670154099366815 9.521177152e-06 A 17.500024398081415 10.000000000000002 89.8954070965922 0 0 23.734046321811856 35.0 A 17.500024398081415 10.000000000000002 89.8954070965922 0 0 23.670154099366815 9.521177152e-06 " stroke="#000000" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
-<circle cx="23.939764" cy="42.6992" r="7.5" stroke="#000000" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
-<path id="Sketch_w0002"  d="M 13.468599330838446 0.0 L 33.46859933083845 0.0 " stroke="#000000" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
-<circle cx="17.241207" cy="-2.013836" r="2.0" stroke="#000000" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
-<circle cx="29.947121" cy="-2.097783" r="2.0" stroke="#000000" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
-<circle cx="23.493711" cy="-2.013533" r="2.0" stroke="#000000" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
-<title>b'Sketch'</title>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20.612496447010603mm"
+   height="54.63188390093172mm"
+   viewBox="0 0 20.612496447010603 54.63188390093172"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="eva_cotas-Sketch.svg"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.8889453"
+     inkscape:cx="38.956577"
+     inkscape:cy="103.24136"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Fondo">
+    <rect
+       style="fill:#ffffff;stroke-width:0.101693"
+       id="rect4"
+       width="26.805683"
+       height="55.312229"
+       x="0.068034761"
+       y="-0.47624302" />
+  </g>
+  <g
+     id="Sketch"
+     transform="matrix(0.98393803,0,0,-0.97271339,-13.057775,50.466006)"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <path
+       id="Sketch_w0000"
+       d="M 23.670154,9.5211772e-6 A 17.500024,10 89.895407 0 0 23.734046,35 17.500024,10 89.895407 0 0 23.670154,9.5211772e-6"
+       stroke="#000000"
+       stroke-width="0.7 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       cx="23.939764"
+       cy="42.6992"
+       r="7.5"
+       stroke="#000000"
+       stroke-width="0.7 px"
+       style="fill:none;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle1" />
+    <path
+       id="Sketch_w0002"
+       d="m 13.468599,0 h 20"
+       stroke="#000000"
+       stroke-width="0.7 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       cx="17.241207"
+       cy="-2.0138359"
+       r="2"
+       stroke="#000000"
+       stroke-width="0.7 px"
+       style="fill:none;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2" />
+    <circle
+       cx="29.947121"
+       cy="-2.0977831"
+       r="2"
+       stroke="#000000"
+       stroke-width="0.7 px"
+       style="fill:none;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle3" />
+    <circle
+       cx="23.493711"
+       cy="-2.0135331"
+       r="2"
+       stroke="#000000"
+       stroke-width="0.7 px"
+       style="fill:none;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle4" />
+    <title
+       id="title4">b'Sketch'</title>
+  </g>
 </svg>
